@@ -1,8 +1,8 @@
 Spamchecker
 
-Check ip status with differents rbl list
+Check ip status with differents rbl list:
 
-./spamchecker.sh "ip"
+# ./spamchecker.sh "ip"
 
 Licensing:
 
